@@ -14,7 +14,7 @@ Màu thương hiệu: [nâu sẫm , xanh lá cây]
 
 Đối tượng khách hàng : người trẻ và tất cả mọi người yêu thiên nhiên và có đam mê với kiến trúc Việt Nam cổ
 
-Website tham khảo (không bắt buộc): www.SEVSENCÈS-BGM-lux.haha
+Website tham khảo (không bắt buộc):[www.SEVSENCÈS-BGM-lux.haha](https://github.com)
 
 Định vị thương hiệu: ấm cúng, gần gũi ,hoà mình vào thiên nhiên
 

@@ -31,7 +31,8 @@
    - Không gian mở được bao phủ bởi bầu trời
 
    - Lối kiến trúc hoài mình với thiên nhiên
-   - 
+
+     
 # phân tích chi tiết kỹ thuật được áp dụng trong các file:
 Các file mã nguồn trên không sử dụng bất kỳ thư viện (library) hoặc khung làm việc (framework) bên thứ ba nào (như jQuery, React, Vue, Bootstrap, Tailwind, Lodash, v.v.).
 

@@ -40,41 +40,41 @@ Các file mã nguồn trên không sử dụng bất kỳ thư viện (library) 
 
 #### Thuần mã Vanilla JS (JavaScript ES6+ Native)
 
-Sử dụng các Web API chuẩn có sẵn của trình duyệt để xử lý logic:
+- Sử dụng các Web API chuẩn có sẵn của trình duyệt để xử lý logic:
 
-URLSearchParams: Đọc tham số URL (?theme=...) để chuyển đổi cấu hình/giao diện đa chủ đề.
+- URLSearchParams: Đọc tham số URL (?theme=...) để chuyển đổi cấu hình/giao diện đa chủ đề.
 
-IntersectionObserver: Xử lý hiệu ứng xuất hiện (reveal animation) khi cuộn trang thay vì dùng các thư viện cuộn như ScrollMagic hay AOS.
+- IntersectionObserver: Xử lý hiệu ứng xuất hiện (reveal animation) khi cuộn trang thay vì dùng các thư viện cuộn như ScrollMagic hay AOS.
 
-HTMLDialogElement (showModal(), close()): Điều khiển hộp thoại/modal xem video native của HTML5 (<dialog>).
+- HTMLDialogElement (showModal(), close()): Điều khiển hộp thoại/modal xem video native của HTML5 (<dialog>).
 
-Navigator.clipboard: Xử lý sao chép văn bản vào bộ nhớ tạm.
+- Navigator.clipboard: Xử lý sao chép văn bản vào bộ nhớ tạm.
 
-window.matchMedia('(prefers-reduced-motion: reduce)'): Kiểm tra cài đặt giảm chuyển động của hệ điều hành.
+- window.matchMedia('(prefers-reduced-motion: reduce)'): Kiểm tra cài đặt giảm chuyển động của hệ điều hành.
 
 ## 2. HTML (index.html, credits.html, credits1.html, credits2.html)
 
 #### Mã HTML5 Chuẩn (Semantic HTML5):
 
-Tận dụng các thẻ chuẩn HTML5 như `<header>, <main>, <section>, <article>, <footer>, <dialog>, <video>`.
+- Tận dụng các thẻ chuẩn HTML5 như `<header>, <main>, <section>, <article>, <footer>, <dialog>, <video>`.
 
-Font chữ bên ngoài (Google Fonts CDN):
+- Font chữ bên ngoài (Google Fonts CDN):
 
-Nhúng trực tiếp 2 phông chữ từ Google Fonts qua CDN: Be Vietnam Pro và Playfair Display.
+- Nhúng trực tiếp 2 phông chữ từ Google Fonts qua CDN: Be Vietnam Pro và Playfair Display.
 
 ## 3. CSS (style.css)
 
 #### Thuần CSS3 (Vanilla CSS):
 
-Tự viết toàn bộ giao diện bằng các tính năng CSS hiện đại:
+- Tự viết toàn bộ giao diện bằng các tính năng CSS hiện đại:
 
-CSS Custom Properties (Variables): Quản lý màu sắc và typography (--ink, --forest, --paper, --serif).
+- CSS Custom Properties (Variables): Quản lý màu sắc và typography (--ink, --forest, --paper, --serif).
 
-CSS Grid & Flexbox: Dùng cho bố cục chia cột và dàn trang.
+- CSS Grid & Flexbox: Dùng cho bố cục chia cột và dàn trang.
 
-CSS Transitions & Animations: Tạo hiệu ứng hover và hiệu ứng xuất hiện (.reveal).
+- CSS Transitions & Animations: Tạo hiệu ứng hover và hiệu ứng xuất hiện (.reveal).
 
-Media Queries: Xử lý Responsive trên thiết bị di động và hỗ trợ prefers-reduced-motion.
+- Media Queries: Xử lý Responsive trên thiết bị di động và hỗ trợ prefers-reduced-motion.
 
 # Các tính năng
 

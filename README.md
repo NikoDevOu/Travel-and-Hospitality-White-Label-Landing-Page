@@ -141,3 +141,10 @@ Các file mã nguồn trên không sử dụng bất kỳ thư viện (library) 
 
 
 * **Responsive Design:** Tự động tối ưu giao diện linh hoạt cho cả máy tính và điện thoại di động.
+### 5. Cách sử dụng AI 
+
+* **Cung cấp thông tin thương hiệu:** tên SEVSENCÈS, slogan, màu sắc, khách hàng mục tiêu và thông tin liên hệ.
+
+* **Mô tả định hướng thiết kế:** kết hợp kiến trúc Việt Nam cổ truyền với kiến trúc hiện đại, tạo không gian gần gũi thiên nhiên.
+
+* **Yêu cầu xây dựng landing page tham khảo:** dùng Codex để triển khai nội dung và giao diện từ ý tưởng của bạn.
